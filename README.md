@@ -4,3 +4,5 @@ Since it costs $5 to get this into the chrome web store, it's only available lik
 ## Versions
 ### 0.1
 Initial Release
+### 0.2
+Fix Ads and improve styling
